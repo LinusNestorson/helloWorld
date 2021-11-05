@@ -8,6 +8,7 @@ namespace helloWorld
         {
             Console.WriteLine("Hello World2!");
             Console.WriteLine("We added another branch!");
+            Console.WriteLine("Testing the new branch with workflow!");
         }
     }
 }
